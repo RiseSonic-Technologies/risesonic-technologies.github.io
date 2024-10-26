@@ -1,3 +1,5 @@
 plugins:
 - jekyll-remote-theme
 remote_theme: pages-themes/leap-day@v0.2.0
+title: RiseSonic Technologies - Experimental NuGet Repository
+description: Not intended for use outside ForgeAir development. Shall not be used as a production repository.
