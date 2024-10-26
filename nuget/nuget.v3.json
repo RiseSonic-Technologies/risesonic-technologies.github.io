@@ -2,12 +2,8 @@
   "version": "3.0.0",
   "resources": [
     {
-      "@id": "https://risesonic-technologies.github.io/nuget/packages",
+      "@id": "https://risesonic-technologies.github.io/nuget/packages/",
       "@type": "PackageBaseAddress/3.0.0"
-    },
-    {
-      "@id": "https://risesonic-technologies.github.io/nuget/nuget.xml",
-      "@type": "LegacyPackagePath/3.0.0"
     }
   ]
 }
