@@ -1,0 +1,9 @@
+{
+  "version": "3.0.0",
+  "resources": [
+    {
+      "@id": "https://risesonic-technologies.github.io/nuget",
+      "@type": "PackageBaseAddress/3.0.0"
+    }
+  ]
+}
